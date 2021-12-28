@@ -1,0 +1,22 @@
+{
+  "object": "list",
+  "usuarios": [
+    {
+      "usuario": "Pipe",
+      "data": {
+        "notion": [
+          {
+            "nombreNotion": "Notion Pipe",
+            "token": "secret_xykPkxFmXUnNvuF0noDZTOXUriI3O2JSuOWyEXtq4rb",
+            "databaseIds": [
+              {
+                "nombreDB": "Universidad",
+                "databaseId": "269d253235e94a8ca85cc002441e4918"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

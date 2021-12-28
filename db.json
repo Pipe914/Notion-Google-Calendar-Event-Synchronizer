@@ -1,0 +1,376 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "18e7add0-f090-4108-ae32-44c326b50677",
+      "created_time": "2021-12-24T23:25:00.000Z",
+      "last_edited_time": "2021-12-24T23:48:00.000Z",
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "269d2532-35e9-4a8c-a85c-c002441e4918"
+      },
+      "archived": false,
+      "properties": {
+        "Calendar ID": {
+          "id": "%3AkZC",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Extras": {
+          "id": "C%3D%60q",
+          "type": "files",
+          "files": []
+        },
+        "Info": {
+          "id": "H%3EVv",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Prueba del dia completo",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Prueba del dia completo",
+              "href": null
+            }
+          ]
+        },
+        "Materia": {
+          "id": "%5Ef%3BN",
+          "type": "select",
+          "select": {
+            "id": "b39b685a-364b-4e78-b6a3-1efea82b743c",
+            "name": "UNIVERSIDAD",
+            "color": "orange"
+          }
+        },
+        "Status": {
+          "id": "j%40Ur",
+          "type": "select",
+          "select": {
+            "id": "2432c85d-20a8-4ce7-a5c1-81c2386f8e7e",
+            "name": "Activo",
+            "color": "green"
+          }
+        },
+        "Fecha": {
+          "id": "kcDM",
+          "type": "date",
+          "date": {
+            "start": "2021-12-28",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "Fecha Editado": {
+          "id": "tnWa",
+          "type": "last_edited_time",
+          "last_edited_time": "2021-12-24T23:48:00.000Z"
+        },
+        "Fecha Creado": {
+          "id": "tqX%5E",
+          "type": "created_time",
+          "created_time": "2021-12-24T23:25:00.000Z"
+        },
+        "Estado": {
+          "id": "%7BEiI",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "All Day": {
+          "id": "%7CcAr",
+          "type": "select",
+          "select": {
+            "id": "a849cd5c-0dd5-4e5f-a37f-3f8cdb1ba8d1",
+            "name": "true",
+            "color": "green"
+          }
+        },
+        "Descripcion": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Prueba de full dia",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Prueba de full dia",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Prueba-de-full-dia-18e7add0f0904108ae3244c326b50677"
+    },
+    {
+      "object": "page",
+      "id": "cc86d22b-9ae3-463d-b000-677321af00d7",
+      "created_time": "2021-12-24T22:01:00.000Z",
+      "last_edited_time": "2021-12-24T23:48:00.000Z",
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "269d2532-35e9-4a8c-a85c-c002441e4918"
+      },
+      "archived": false,
+      "properties": {
+        "Calendar ID": {
+          "id": "%3AkZC",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Extras": {
+          "id": "C%3D%60q",
+          "type": "files",
+          "files": []
+        },
+        "Info": {
+          "id": "H%3EVv",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "probando probando",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "probando probando",
+              "href": null
+            }
+          ]
+        },
+        "Materia": {
+          "id": "%5Ef%3BN",
+          "type": "select",
+          "select": {
+            "id": "5e08bc02-4d3f-44fd-b569-ad9c9d26f160",
+            "name": "ANA. Y DISE. DE LA INFO.",
+            "color": "brown"
+          }
+        },
+        "Status": {
+          "id": "j%40Ur",
+          "type": "select",
+          "select": {
+            "id": "2432c85d-20a8-4ce7-a5c1-81c2386f8e7e",
+            "name": "Activo",
+            "color": "green"
+          }
+        },
+        "Fecha": {
+          "id": "kcDM",
+          "type": "date",
+          "date": {
+            "start": "2021-12-29T16:00:00.000-05:00",
+            "end": "2021-12-29T18:00:00.000-05:00",
+            "time_zone": null
+          }
+        },
+        "Fecha Editado": {
+          "id": "tnWa",
+          "type": "last_edited_time",
+          "last_edited_time": "2021-12-24T23:48:00.000Z"
+        },
+        "Fecha Creado": {
+          "id": "tqX%5E",
+          "type": "created_time",
+          "created_time": "2021-12-24T22:01:00.000Z"
+        },
+        "Estado": {
+          "id": "%7BEiI",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "All Day": {
+          "id": "%7CcAr",
+          "type": "select",
+          "select": {
+            "id": "f4274e66-b656-4d60-bfcf-0c3f94eb32f7",
+            "name": "false",
+            "color": "red"
+          }
+        },
+        "Descripcion": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Otra prueba del dia",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Otra prueba del dia",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Otra-prueba-del-dia-cc86d22b9ae3463db000677321af00d7"
+    },
+    {
+      "object": "page",
+      "id": "a9af4cf4-03a9-4cfa-8d8b-ebe31c167ecc",
+      "created_time": "2021-12-24T21:58:00.000Z",
+      "last_edited_time": "2021-12-24T21:59:00.000Z",
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "269d2532-35e9-4a8c-a85c-c002441e4918"
+      },
+      "archived": false,
+      "properties": {
+        "Calendar ID": {
+          "id": "%3AkZC",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Extras": {
+          "id": "C%3D%60q",
+          "type": "files",
+          "files": []
+        },
+        "Info": {
+          "id": "H%3EVv",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Prueba pero con dia y hora ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Prueba pero con dia y hora ",
+              "href": null
+            }
+          ]
+        },
+        "Materia": {
+          "id": "%5Ef%3BN",
+          "type": "select",
+          "select": {
+            "id": "b39b685a-364b-4e78-b6a3-1efea82b743c",
+            "name": "UNIVERSIDAD",
+            "color": "orange"
+          }
+        },
+        "Status": {
+          "id": "j%40Ur",
+          "type": "select",
+          "select": {
+            "id": "2432c85d-20a8-4ce7-a5c1-81c2386f8e7e",
+            "name": "Activo",
+            "color": "green"
+          }
+        },
+        "Fecha": {
+          "id": "kcDM",
+          "type": "date",
+          "date": {
+            "start": "2021-12-30T15:00:00.000-05:00",
+            "end": "2021-12-30T17:00:00.000-05:00",
+            "time_zone": null
+          }
+        },
+        "Fecha Editado": {
+          "id": "tnWa",
+          "type": "last_edited_time",
+          "last_edited_time": "2021-12-24T21:59:00.000Z"
+        },
+        "Fecha Creado": {
+          "id": "tqX%5E",
+          "type": "created_time",
+          "created_time": "2021-12-24T21:58:00.000Z"
+        },
+        "Estado": {
+          "id": "%7BEiI",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "All Day": {
+          "id": "%7CcAr",
+          "type": "select",
+          "select": {
+            "id": "f4274e66-b656-4d60-bfcf-0c3f94eb32f7",
+            "name": "false",
+            "color": "red"
+          }
+        },
+        "Descripcion": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Prueba dia con hora",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Prueba dia con hora",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Prueba-dia-con-hora-a9af4cf403a94cfa8d8bebe31c167ecc"
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false
+}
